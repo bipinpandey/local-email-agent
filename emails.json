@@ -1,0 +1,36 @@
+[
+  {
+    "Subject": "Urgent: Project Update Required",
+    "From": "john.doe@example.com",
+    "To": "team@companyxyz.com",
+    "Content": " Hi Team,\n I hope you’re well. I need an urgent update on the Alpha Project by EOD today. The client is pressing for a status report, and delays could impact our timeline. Please share the latest progress, challenges, and next steps in the shared drive. If there are any blockers, let’s discuss during the 3 PM sync. Your prompt response is critical to meeting the deadline. Thank you for your attention"
+  },
+  {
+    "Subject": "Urgent Project Update",
+    "From": "alex.johnson@example.com",
+    "To": "team@companyxyz.com",
+    "Content": " Hi Team,  \n I hope you're all well. I’m writing to share an urgent update regarding the Horizon Project. Due to unforeseen delays in the third phase, the deadline has been pushed back by two weeks. Please review the revised timeline attached and adjust your schedules accordingly. Key milestones are now set for October 15th and November 1st. I’ve prioritized tasks to ensure we stay on track. If you have any concerns or need additional resources, let me know immediately. Your collaboration is crucial to meeting this new deadline."
+  },
+  {
+    "Subject": "Quick Inquiry About Your Recent Project",
+    "From": "alex.johnson@example.com",
+    "To": "shiva.bhakt@meditation.com",
+    "Content": " I hope you’re well! I came across your recent project on the Creative Agency website and was impressed by the design. Could you share more details about the process? Specifically, how did you approach the client’s feedback phase? I’m curious about your workflow and any challenges faced. It would be great to learn from your experience. Feel free to reply with your insights—I’d love to connect further. Looking forward to your response!"
+  },
+  {
+    "Subject": "Last Chance to Join Our Exclusive Club",
+    "From": "alex.johnson@example.com",
+    "To": "shiva.bhakt@meditation.com",
+    "Content": " I hope this message finds you well. I’m reaching out because I believe you’ve been selected for an exclusive opportunity—our brand-new Elite Circle membership. With only 50 spots left, this is your final chance to secure a spot. Enjoy perks like early access to products, VIP events, and personalized consultations. The deadline is tomorrow at midnight—don’t miss out! Click the link below to claim your invitation. Your future self will thank you."
+  },
+  {
+    "Subject": "Urgent: Your Account Needs Verification",
+    "From": "john.doe@example.com",
+    "To": "shiva.bhakt@meditation.com",
+    "Content": " We’ve detected unusual activity on your account. To ensure security, please verify your details by clicking [here](https://example.com/verify). This step is critical to protect your data. If you didn’t request this, contact support immediately. Your account will be locked if verification isn’t completed within 24 hours. Don’t share this link with others. For security, we recommend using a strong password and enabling two-factor authentication."
+  }
+]
+
+
+
+

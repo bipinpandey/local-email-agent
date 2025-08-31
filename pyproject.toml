@@ -1,0 +1,15 @@
+[project]
+name = "local-email-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.6"
+dependencies = [
+    "imap-client>=0.1.8",
+    "imap-tools>=1.11.0",
+    "langchain>=0.3.27",
+    "langchain-ollama>=0.3.7",
+    "langgraph>=0.6.6",
+    "localmail>=0.5.0",
+    "python-dotenv>=1.1.1",
+]
